@@ -1,5 +1,5 @@
 # SHOOT-N-STACK
 
-Shoot-N-Stack is a puzzle, 2d shooted hybrid combining elements of popular arcade games Tetris and Missile command
+Shoot-N-Stack is a puzzle, 2D shooter hybrid combining elements from popular arcade games Tetris and Missile Command.
 
-A breif game demo can be found here: https://www.youtube.com/watch?v=TeApdwFbe1A
+A brief game demo can be found here: https://www.youtube.com/watch?v=TeApdwFbe1A
